@@ -157,10 +157,7 @@ if __name__ == "__main__":
     # configs
     # wandb parameter
     WANDB = False
-    # # wandb key
-    # if WANDB:
-    #     wandb.login(key='6d79f8ce510ee51b794332f57a750f6647ad72d7')
-        
+
     # online_train
     mode_online_train = False
     

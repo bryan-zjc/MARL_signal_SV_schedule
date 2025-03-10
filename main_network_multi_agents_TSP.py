@@ -180,7 +180,7 @@ if __name__ == "__main__":
     WANDB = True
     # wandb key
     if WANDB:
-        wandb.login(key='6d79f8ce510ee51b794332f57a750f6647ad72d7')
+        wandb.login(key='')
         
     # online_train
     mode_online_train = True
@@ -189,7 +189,7 @@ if __name__ == "__main__":
     sumo_visualization = False
     
     # agent
-    agent_select = 'SAC-top3SV' # CQL, DQN, SAC, D3QN, A2C
+    agent_select = 'SAC-top3SV'
     
     # random seed (date)
     seed=20250102
