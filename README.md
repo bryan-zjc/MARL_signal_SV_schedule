@@ -1,6 +1,6 @@
 # MARL_signal_SV_schedule
 
-This is the demo code for our paper "**_Schedule Adherence Oriented Traffic Signal Control for Large-Scale Scheduled Vehicle Operations: A Multi-Agent Reinforcement Learning Approach_**":
+This is the demo code for our paper "**Schedule Adherence Oriented Traffic Signal Control for Large-Scale Scheduled Vehicle Operations: A Multi-Agent Reinforcement Learning Approach**":
 
 ## **Abstract**
 >Travel time reliability plays a crucial role in modern transportation systems, particularly for Scheduled Vehicles (SVs) that operate according to predefined timetables. SVs are becoming increasingly prevalent in urban transportation systems, with common examples including buses, delivery trucks, ride-hailing service vehicles, and travel reservation vehicles. As the timetable
@@ -16,6 +16,8 @@ congestion compared to benchmarks. Sensitivity analysis further confirms the ada
 method can ensure schedule adherence for large-scale SVs without sacrificing significant system efficiency.
 
 ![fig1](https://github.com/user-attachments/assets/5830c564-6888-4267-9e0b-d17ee1f1f343)
+_Figure 1: Illustration of the signal control problem to improve schedule adherence for large-scale SVs in the urban road
+network._
 
 ## **Run**
 Train and test a new model of our proposed method:
