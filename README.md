@@ -20,8 +20,12 @@ method can ensure schedule adherence for large-scale SVs without sacrificing sig
 ## **Run**
 Train and test a new model of our proposed method:
 
-`python main_transformer.py`
+```bash
+python main_transformer.py
+```
 
 Model evaluation:
 
-`main_evaluate.py`
+```bash
+python main_evaluate.py
+```
